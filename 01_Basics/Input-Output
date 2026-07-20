@@ -1,0 +1,4 @@
+class Solution:
+    def printNumber(self):
+        N = int(input())
+        print(N)
